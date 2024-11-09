@@ -228,9 +228,9 @@ Project Link: [https://github.com/SedatUygur/Attendance-Management-System](https
 [face-recognition-docs-url]: https://face-recognition.readthedocs.io/en/latest/face_recognition.html
 [face-recognition issue]: https://github.com/ageitgey/face_recognition/issues/175
 [face-recognition issue comment]: https://github.com/ageitgey/face_recognition/issues/175#issuecomment-2335190442
-[numpy]: https://numpy.org/images/numpy-image.jpg=200x94
+[numpy]: <img src="https://numpy.org/images/numpy-image.jpg" width="200" height="94">
 [numpy-url]: https://numpy.org/
-[pandas]: https://pandas.pydata.org/static/img/pandas.svg=200x74
+[pandas]: <img src="https://pandas.pydata.org/static/img/pandas.svg" width="200" height="74">
 [pandas-url]: https://pandas.pydata.org/
 [tkinter]: https://docs.python.org/3/_static/py.svg
 [tkinter-url]: https://docs.python.org/3/library/tkinter.html
