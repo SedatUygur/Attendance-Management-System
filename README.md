@@ -86,12 +86,9 @@ This project involves developing an attendance system which uses facial recognit
 
 ### Built With
 
-* [![Python][python]][python-url]
-* [![OpenCV Python][opencv-python]][opencv-python-url]
-* [![Face Recognition][face-recognition]][face-recognition-url]
+* [![Python][python-logo]][Python]
 * [![NumPy][numpy]][numpy-url]
 * [![Pandas][pandas]][pandas-url]
-* [![Tkinter][tkinter]][tkinter-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,11 +102,9 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 Install Python
-* [python-url]
+* [Python]
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Download or clone my repository
    ```sh
@@ -123,7 +118,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    pip install face recognition
    ```
-4. If you encounter problems while installing face recognition on Windows, you can follow this issue [face-recognition-issue-url] and my comment [face-recognition-issue-comment-url] on Github.
+4. If you encounter problems while installing face recognition on Windows, you can follow this issue [face-recognition issue] and my comment [face-recognition issue comment] on Github.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -197,12 +192,12 @@ Project Link: [https://github.com/SedatUygur/Attendance-Management-System](https
 * [dlib][dlib-url]
 * [opencv-python][opencv-python-url]
 * [face-recognition][face-recognition-url]
-* [face-recognition-docs][face-recognition-docs-url]
-* [face-recognition-issue][face-recognition-issue-url]
+* [face-recognition docs][face-recognition-docs-url]
+* [face-recognition issue][face-recognition-issue-url]
 * [numpy][numpy-url]
 * [pandas][pandas-url]
 * [tkinter][tkinter-url]
-* [tkinter][tkinter-tutorial-url]
+* [tkinter tutorial][tkinter-tutorial-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,18 +220,17 @@ Project Link: [https://github.com/SedatUygur/Attendance-Management-System](https
 [product-screenshot]: images/screenshot.png
 [dlib]: http://dlib.net/dlib-logo-small.png
 [dlib-url]: https://github.com/davisking/dlib
-[python]: https://www.python.org/static/img/python-logo.png
-[python-url]: https://www.python.org/
-[opencv-python]: https://opencv.org/wp-content/uploads/2022/05/logo.png
+[python-logo]: https://www.python.org/static/opengraph-icon-200x200.png
+[Python]: https://www.python.org/
 [opencv-python-url]: https://pypi.org/project/opencv-python/
 [face-recognition]: https://pypi.org/static/images/logo-small.8998e9d1.svg
 [face-recognition-url]: https://pypi.org/project/face-recognition/
 [face-recognition-docs-url]: https://face-recognition.readthedocs.io/en/latest/face_recognition.html
-[face-recognition-issue-url]: https://github.com/ageitgey/face_recognition/issues/175
-[face-recognition-issue-comment-url]: https://github.com/ageitgey/face_recognition/issues/175#issuecomment-2335190442
+[face-recognition issue]: https://github.com/ageitgey/face_recognition/issues/175
+[face-recognition issue comment]: https://github.com/ageitgey/face_recognition/issues/175#issuecomment-2335190442
 [numpy]: https://numpy.org/images/favicon.ico
 [numpy-url]: https://numpy.org/
-[pandas]: https://pandas.pydata.org/static/img/pandas_white.svg
+[pandas]: https://pandas.pydata.org/static/img/pandas.svg
 [pandas-url]: https://pandas.pydata.org/
 [tkinter]: https://docs.python.org/3/_static/py.svg
 [tkinter-url]: https://docs.python.org/3/library/tkinter.html
