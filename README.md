@@ -76,8 +76,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Attendance Management System][product-screenshot]](https://example.com)
-
 This project involves developing an attendance system which uses facial recognition to mark the attendance. It covers areas such as facial detection, alignment and recognition, along with the development of a desktop application to various use cases of the system such as registration of new attendees, taking photos and adding them to the training dataset, viewing attendance reports. This project can be used everywhere where security is essential.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -87,8 +85,6 @@ This project involves developing an attendance system which uses facial recognit
 ### Built With
 
 [![Python][python-logo]][Python]
-[![NumPy][numpy]][numpy-url]
-[![Pandas][pandas]][pandas-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -228,9 +224,9 @@ Project Link: [https://github.com/SedatUygur/Attendance-Management-System](https
 [face-recognition-docs-url]: https://face-recognition.readthedocs.io/en/latest/face_recognition.html
 [face-recognition issue]: https://github.com/ageitgey/face_recognition/issues/175
 [face-recognition issue comment]: https://github.com/ageitgey/face_recognition/issues/175#issuecomment-2335190442
-[numpy]: <img src="https://numpy.org/images/numpy-image.jpg" width="200" height="94">
+[numpy]: https://numpy.org/images/numpy-image.jpg
 [numpy-url]: https://numpy.org/
-[pandas]: <img src="https://pandas.pydata.org/static/img/pandas.svg" width="200" height="74">
+[pandas]: https://pandas.pydata.org/static/img/pandas.svg
 [pandas-url]: https://pandas.pydata.org/
 [tkinter]: https://docs.python.org/3/_static/py.svg
 [tkinter-url]: https://docs.python.org/3/library/tkinter.html
